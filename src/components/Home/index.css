@@ -1,0 +1,43 @@
+/* Write your CSS code here */
+.main-container {
+  display: flex;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.about {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.text-container {
+  margin: 30px;
+}
+
+.shop-btn {
+  border-style: none;
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  height: 40px;
+  width: 90px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.clothes-img {
+  margin-left: 80px;
+  margin-right: 80px;
+}
